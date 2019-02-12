@@ -1,0 +1,3 @@
+[submodule "StupideBench"]
+	path = StupideBench
+	url = https://github.com/bnlWhale/StupideBench.git
